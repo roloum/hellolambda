@@ -1,6 +1,6 @@
-Before I start deploying AWS Lambda functions using the [Serverless](https://serverless.com) framework, I wanted to understand what's happening in the background and set up an API gateway for a basic hellolambda function I created.
+# Using AWS Lambda with API Gateway
 
-# Step by step guide, using the aws2 command line tool:
+Before I start deploying AWS Lambda functions using the [Serverless](https://serverless.com) framework, I wanted to understand what's happening in the background and set up an API gateway for a basic hellolambda function I created.
 
 ## Create lambda function
 
